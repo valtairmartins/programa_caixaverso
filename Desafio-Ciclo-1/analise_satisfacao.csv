@@ -1,0 +1,11 @@
+regiao,tipo_servico,tempo_resposta,avaliacao_cliente
+Sudeste,Crédito,30,3
+Nordeste,Conta,15,5
+Sul,Crédito,45,2
+Sudeste,Benefício,10,4
+Norte,Conta,22,5
+Nordeste,Crédito,60,1
+Sudeste,Investimento,12,4
+Sul,Conta,25,3
+Centro-Oeste,Benefício,8,5
+Nordeste,Investimento,55,2
