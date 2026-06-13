@@ -1,0 +1,8 @@
+id_atendimento,data_atendimento,id_cliente,tipo_servico,tempo_resposta
+1,2025-10-01,101,Crédito,30
+2,2025-10-01,102,Conta,15
+3,2025-10-02,103,Crédito,
+4,2025-10-03,101,Benefício,45
+5,2025-10-03,102,Conta,20
+6,2025-10-04,104,Investimento,12
+7,2025-10-05,101,Crédito
